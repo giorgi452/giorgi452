@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋Hi there!
+I am Giorgi Milashvili from Georgia and I am Full Stack Developer💻
+I can make beautiful and functional Web Sites for you, your Company or your Startup. I have worked on many projects and I am experienced Junior Developer.
 
-<!--
-**giorgi452/giorgi452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills🎓
+-   HTML 📄
+-   CSS 🎨
+-   JavaScript 🚀
+-   TypeScript 💡
+-   PHP 🔨
+-   MySQL 🗄️
+-   Vue 🔥
+-   SCSS 💄
 
-Here are some ideas to get you started:
+I am always eager to learn new technologies and techniques 🤓. Feel free to connect with me and let's build amazing projects together 🚀.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## Job 💵
+ I haven't job yet
+ 
+## Education🎓
+I am learning in school.
