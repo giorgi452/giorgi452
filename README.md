@@ -8,9 +8,10 @@ I can make beautiful and functional Web Sites for you, your Company or your Star
 -   JavaScript 🚀
 -   TypeScript 💡
 -   PHP 🔨
--   MySQL 🗄️
+-   MongoDB 🗄️
 -   Vue 🔥
 -   SCSS 💄
+-   Node.js 📗
 
 I am always eager to learn new technologies and techniques 🤓. Feel free to connect with me and let's build amazing projects together 🚀.
 
