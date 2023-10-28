@@ -17,6 +17,7 @@ I can make beautiful and functional Web Sites for you, your Company or your Star
 ![JavaScript](https://img.shields.io/badge/javascript-%23323331.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Typescript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Nuxt](https://img shields.io/badge/nuxt-%2335496e.svg?style=for-the-badge&logo=nuxt&logoColor=%234fc08d)
 ![MongoDB](https://img.shields.io/badge/mongodb-%47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
 ![Prisma](https://img.shields.io/badge/prisma-%23323330.svg?style=for-the-badge&logo=prisma&logoColor=white)
