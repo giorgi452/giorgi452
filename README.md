@@ -1,7 +1,8 @@
 # 👋Hi there!
 
-I am Giorgi Milashvili from Georgia and I am Full Stack Developer💻
-I can make beautiful and functional Web Sites for you, your Company or your Startup. I have worked on many projects and I am experienced Junior Developer.
+გამარჯობა, მე ვარ გიორგი მილაშვილი Full Stack Developer. მე შემიძლია გავაკეთო ლამაზი და მოსახერხებელი ვებსაიტები შენთვის, შენი კომპანიისთვის ან შენი სთართაფისთვის. მე მიმუშავია ბევრ პროექტზე და მე ვარ გამოცდილი ჯუნიორ დეველოპერი. ასევე მე მაქვს Youtube სადაც ვასწავლი დამწყებებს პროგრამირებას. მეტი ინფორმაციისთვის დამიკავშირდით მეილზე: giorgi.milashvili10@gmail.com 
+
+Hello, I'm Giorgi Milashvili Full Stack Developer. I can make beautiful and functional web sites for you, your company or your startup. I have worked on many projects and I am an experienced Junior Developer. Also, I have YouTube where I teach beginners programming. For more information contact to Gmail: giorgi.milashvili10@gmail.com
 
 ## Social 🌐
 
