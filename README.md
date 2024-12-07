@@ -1,13 +1,10 @@
 # 👋Hi there!
 
-Hello, I'm Giorgi Milashvili Full Stack Developer. I can make beautiful and functional web sites for you, your company or your startup. I have worked on many projects and I am an experienced Junior Developer. Also, I have YouTube where I teach beginners programming. For more information contact to Gmail: giorgi.milashvili10@gmail.com
+Hello, I'm Giorgi Milashvili Full Stack Developer. I can make beautiful and functional web sites for you, your company or your startup. I have worked on many projects and I am an experienced Junior Developer. Also, I have YouTube where I teach beginners programming.
 
 ## Social 🌐
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/g.milashvili/)
-[![Facebook](https://img.shields.io/badge/Facebook-%230866FF.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/giorgi.milashvili.56)
-[![Tik Tok](https://img.shields.io/badge/Tik%20Tok-%230000.svg?logo=tiktok&logoColor=white)](https://www.tiktok.com/@g.milashvili)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giorgi-milashvili-5233a1246/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gorgozavri/)
 
 ## Skills 🎓
 
