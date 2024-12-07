@@ -1,6 +1,6 @@
 # 👋Hi there!
 
-Hello, I'm Giorgi Milashvili Full Stack Developer. I can make beautiful and functional web sites for you, your company or your startup. I have worked on many projects and I am an experienced Junior Developer. Also, I have YouTube where I teach beginners programming.
+Hello, I'm Giorgi Full Stack Developer. I can make beautiful and functional web sites for you, your company or your startup. I have worked on many projects and I am an experienced Junior Developer. Also, I have YouTube where I teach beginners programming.
 
 ## Social 🌐
 
