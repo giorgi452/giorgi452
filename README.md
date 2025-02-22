@@ -4,30 +4,37 @@ Hello, I'm Giorgi Full Stack Developer. I can make beautiful and functional web 
 
 ## Social 🌐
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gorgozavri/)
+<a href="https://instagram.com/gorgozavri">
+   <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="35px"/>
+</a>
+<a href="https://www.linkedin.com/in/giorgi-milashvili-5233a1246/">
+   <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="35px"/>
+</a>
+<a href="https://www.facebook.com/giorgi.milashvili.56">
+   <img align="left" src="https://i.imgur.com/YbokdI0.png" alt="Yu Shi | Instagram" width="35px"/>
+</a>
 
 ## Skills 🎓
 
-![HTML5](https://skillicons.dev/icons?i=html)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323331.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Typescript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Nuxt](https://img.shields.io/badge/nuxt-%2335496e.svg?style=for-the-badge&logo=nuxt.js&logoColor=%234fc08d)
-![MongoDB](https://img.shields.io/badge/mongodb-%47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/mongoose-%23880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-![Prisma](https://img.shields.io/badge/prisma-%23323330.svg?style=for-the-badge&logo=prisma&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C++](https://img.shields.io/badge/c%23-%2300599C.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+[![HTML5](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
+[![CSS3](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
+[![SASS]()]()
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
+[![Typescript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
+[![NPM](https://skillicons.dev/icons?i=npm)](https://www.npmjs.com/)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
+[![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/)
+[![Vue.js](https://skillicons.dev/icons?i=vue)](https://vuejs.org/)
+[![Nuxt](https://skillicons.dev/icons?i=nuxtjs)](https://nuxt.com/)
+[![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![PHP](https://skillicons.dev/icons?i=php)](https://www.php.net/)
+[![Laravel](https://skillicons.dev/icons?i=laravel)](https://laravel.com/)
+[![C++](https://skillicons.dev/icons?i=cpp)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![C](https://skillicons.dev/icons?i=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![Rust](https://skillicons.dev/icons?i=rust)](https://www.rust-lang.org/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![Arch](https://skillicons.dev/icons?i=arch)](https://archlinux.org/)
 
 I am always eager to learn new technologies and techniques 🤓. Feel free to connect with me and let's build amazing projects together 🚀.
 
