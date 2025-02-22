@@ -13,7 +13,7 @@ Hello, I'm Giorgi Full Stack Developer. I can make beautiful and functional web 
 <a href="https://www.facebook.com/giorgi.milashvili.56">
    <img align="left" src="https://i.imgur.com/YbokdI0.png" alt="Yu Shi | Instagram" width="35px"/>
 </a>
-
+<br />
 ## Skills 🎓
 
 [![HTML5](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
