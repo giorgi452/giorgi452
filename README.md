@@ -10,7 +10,7 @@ Hello, I'm Giorgi Full Stack Developer. I can make beautiful and functional web 
 
 [![HTML5](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
 [![CSS3](https://skillicons.dev/icons?i=css)](https://en.wikipedia.org/wiki/CSS)
-[![SASS]()]()
+[![SASS](https://skillicons.dev/icons?i=scss)](https://sass-lang.com/)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://en.wikipedia.org/wiki/JavaScript)
 [![Typescript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/en)
