@@ -4,16 +4,8 @@ Hello, I'm Giorgi Full Stack Developer. I can make beautiful and functional web 
 
 ## Social 🌐
 
-<a href="https://instagram.com/gorgozavri">
-   <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="35px"/>
-</a>
-<a href="https://www.linkedin.com/in/giorgi-milashvili-5233a1246/">
-   <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="35px"/>
-</a>
-<a href="https://www.facebook.com/giorgi.milashvili.56">
-   <img align="left" src="https://i.imgur.com/YbokdI0.png" alt="Yu Shi | Instagram" width="35px"/>
-</a>
-<br />
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gorgozavri/)
+
 ## Skills 🎓
 
 [![HTML5](https://skillicons.dev/icons?i=html)](https://en.wikipedia.org/wiki/HTML)
