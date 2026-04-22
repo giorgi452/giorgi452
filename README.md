@@ -4,7 +4,7 @@ Hello, I'm Giorgi Full Stack Developer. I can make beautiful and functional web 
 
 ## Social 🌐
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gorgozavri/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/user381729229/)
 
 ## Skills 🎓
 
